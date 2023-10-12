@@ -1,7 +1,7 @@
 # Game Set Match
 
-[mood|Okay]
-[Currently Playing| SZA - Love Galore]
+[mood: Okay]
+[Currently Playing: SZA - Love Galore]
 
 > "Ha! No spoony bard could spin a sweeter tale! You say your brothers do not want this fight? Tears then, for the world you see is one beyond my weary sight."
 
